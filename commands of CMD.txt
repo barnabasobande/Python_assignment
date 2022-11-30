@@ -1,0 +1,229 @@
+Microsoft Windows [Version 10.0.19044.2251]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Barnabas Obande>
+C:\Users\Barnabas Obande>pwd
+/c/Users/Barnabas Obande
+
+C:\Users\Barnabas Obande>cd
+C:\Users\Barnabas Obande
+
+C:\Users\Barnabas Obande>dir
+ Volume in drive C has no label.
+ Volume Serial Number is E65E-E5EA
+
+ Directory of C:\Users\Barnabas Obande
+
+11/30/2022  12:39 AM    <DIR>          .
+11/30/2022  12:39 AM    <DIR>          ..
+11/16/2022  08:08 PM             3,812 .bash_history
+11/30/2022  12:46 AM    <DIR>          .conda
+10/29/2022  10:57 PM                25 .condarc
+10/29/2022  10:45 PM    <DIR>          .continuum
+11/09/2022  07:54 PM                69 .gitconfig
+11/29/2022  04:47 PM    <DIR>          .ipynb_checkpoints
+11/03/2022  12:02 AM    <DIR>          .ipython
+11/04/2022  06:46 PM    <DIR>          .jupyter
+11/03/2022  12:02 AM    <DIR>          .matplotlib
+11/29/2022  04:08 PM    <DIR>          .spyder-py3
+11/16/2022  08:14 PM    <DIR>          .ssh
+11/02/2022  11:50 PM             1,819 .viminfo
+09/29/2022  11:29 PM    <DIR>          3D Objects
+11/03/2022  01:26 AM    <DIR>          anaconda3
+09/29/2022  11:29 PM    <DIR>          Contacts
+11/01/2022  06:06 PM    <DIR>          courses
+11/16/2022  08:17 PM    <DIR>          Desktop
+11/01/2022  06:42 PM    <DIR>          Documents
+11/29/2022  05:26 PM    <DIR>          Downloads
+09/29/2022  11:29 PM    <DIR>          Favorites
+11/03/2022  12:08 AM    <DIR>          Jedi
+09/29/2022  11:29 PM    <DIR>          Links
+09/29/2022  11:29 PM    <DIR>          Music
+11/06/2022  09:04 AM             1,513 my_first_notebook.ipynb
+09/29/2022  11:54 PM    <DIR>          OneDrive
+10/10/2022  02:56 PM    <DIR>          Pictures
+11/03/2022  01:15 AM    <DIR>          PycharmProjects
+11/29/2022  04:46 PM            32,029 Python exercises.ipynb
+11/30/2022  12:39 AM            13,341 Python loops.ipynb
+11/02/2022  10:56 PM    <DIR>          python_courses
+10/10/2022  01:19 AM               209 Salesman_202210100119.csv
+09/29/2022  11:29 PM    <DIR>          Saved Games
+09/29/2022  11:33 PM    <DIR>          Searches
+11/01/2022  04:57 AM    <DIR>          test
+10/06/2022  03:32 PM    <DIR>          Tracing
+11/15/2022  05:00 PM             7,529 Untitled.ipynb
+11/29/2022  04:47 PM               321 Untitled1.ipynb
+10/26/2022  07:11 PM    <DIR>          Videos
+              10 File(s)         60,667 bytes
+              30 Dir(s)  140,842,852,352 bytes free
+
+C:\Users\Barnabas Obande>cd..
+
+C:\Users>cd Barnabas Obande
+
+C:\Users\Barnabas Obande>pwd
+/c/Users/Barnabas Obande
+
+C:\Users\Barnabas Obande>mkdir Try_Git_again
+
+C:\Users\Barnabas Obande>dir
+ Volume in drive C has no label.
+ Volume Serial Number is E65E-E5EA
+
+ Directory of C:\Users\Barnabas Obande
+
+11/30/2022  12:52 AM    <DIR>          .
+11/30/2022  12:52 AM    <DIR>          ..
+11/16/2022  08:08 PM             3,812 .bash_history
+11/30/2022  12:52 AM    <DIR>          .conda
+10/29/2022  10:57 PM                25 .condarc
+10/29/2022  10:45 PM    <DIR>          .continuum
+11/09/2022  07:54 PM                69 .gitconfig
+11/29/2022  04:47 PM    <DIR>          .ipynb_checkpoints
+11/03/2022  12:02 AM    <DIR>          .ipython
+11/04/2022  06:46 PM    <DIR>          .jupyter
+11/03/2022  12:02 AM    <DIR>          .matplotlib
+11/29/2022  04:08 PM    <DIR>          .spyder-py3
+11/16/2022  08:14 PM    <DIR>          .ssh
+11/02/2022  11:50 PM             1,819 .viminfo
+09/29/2022  11:29 PM    <DIR>          3D Objects
+11/03/2022  01:26 AM    <DIR>          anaconda3
+09/29/2022  11:29 PM    <DIR>          Contacts
+11/01/2022  06:06 PM    <DIR>          courses
+11/16/2022  08:17 PM    <DIR>          Desktop
+11/01/2022  06:42 PM    <DIR>          Documents
+11/29/2022  05:26 PM    <DIR>          Downloads
+09/29/2022  11:29 PM    <DIR>          Favorites
+11/03/2022  12:08 AM    <DIR>          Jedi
+09/29/2022  11:29 PM    <DIR>          Links
+09/29/2022  11:29 PM    <DIR>          Music
+11/06/2022  09:04 AM             1,513 my_first_notebook.ipynb
+09/29/2022  11:54 PM    <DIR>          OneDrive
+10/10/2022  02:56 PM    <DIR>          Pictures
+11/03/2022  01:15 AM    <DIR>          PycharmProjects
+11/29/2022  04:46 PM            32,029 Python exercises.ipynb
+11/30/2022  12:39 AM            13,341 Python loops.ipynb
+11/02/2022  10:56 PM    <DIR>          python_courses
+10/10/2022  01:19 AM               209 Salesman_202210100119.csv
+09/29/2022  11:29 PM    <DIR>          Saved Games
+09/29/2022  11:33 PM    <DIR>          Searches
+11/01/2022  04:57 AM    <DIR>          test
+10/06/2022  03:32 PM    <DIR>          Tracing
+11/30/2022  12:52 AM    <DIR>          Try_Git_again
+11/15/2022  05:00 PM             7,529 Untitled.ipynb
+11/29/2022  04:47 PM               321 Untitled1.ipynb
+10/26/2022  07:11 PM    <DIR>          Videos
+              10 File(s)         60,667 bytes
+              31 Dir(s)  140,841,426,944 bytes free
+
+C:\Users\Barnabas Obande>cd Try_Git_again
+
+C:\Users\Barnabas Obande\Try_Git_again>start mgr
+The system cannot find the file mgr.
+
+C:\Users\Barnabas Obande\Try_Git_again>copy con first_text.txt
+n = int(input("Enter the number of rows"))
+for i in range(0, n):
+        for j in range(0, i + 1):
+            print("* ", end="")
+        print()
+^Z
+        1 file(s) copied.
+
+C:\Users\Barnabas Obande\Try_Git_again>dir
+ Volume in drive C has no label.
+ Volume Serial Number is E65E-E5EA
+
+ Directory of C:\Users\Barnabas Obande\Try_Git_again
+
+11/30/2022  01:10 AM    <DIR>          .
+11/30/2022  01:10 AM    <DIR>          ..
+11/30/2022  01:05 AM               167 first_text.txt
+11/30/2022  01:10 AM               378 how to create txt_file using cmd.txt
+               2 File(s)            545 bytes
+               2 Dir(s)  138,980,413,440 bytes free
+
+C:\Users\Barnabas Obande\Try_Git_again>git init
+Initialized empty Git repository in C:/Users/Barnabas Obande/Try_Git_again/.git/
+
+C:\Users\Barnabas Obande\Try_Git_again>dir /a
+ Volume in drive C has no label.
+ Volume Serial Number is E65E-E5EA
+
+ Directory of C:\Users\Barnabas Obande\Try_Git_again
+
+11/30/2022  02:45 PM    <DIR>          .
+11/30/2022  02:45 PM    <DIR>          ..
+11/30/2022  02:45 PM    <DIR>          .git
+11/30/2022  01:05 AM               167 first_text.txt
+11/30/2022  01:10 AM               378 how to create txt_file using cmd.txt
+               2 File(s)            545 bytes
+               3 Dir(s)  138,979,913,728 bytes free
+
+C:\Users\Barnabas Obande\Try_Git_again>git add .
+
+C:\Users\Barnabas Obande\Try_Git_again>git commit -m "my first commit again"
+[master (root-commit) 6aedbe0] my first commit again
+ 2 files changed, 18 insertions(+)
+ create mode 100644 first_text.txt
+ create mode 100644 how to create txt_file using cmd.txt
+
+C:\Users\Barnabas Obande\Try_Git_again>git config --global user.email barnabasobande1993@gmail.com
+
+C:\Users\Barnabas Obande\Try_Git_again>git config --global user.name barnabasobande
+
+C:\Users\Barnabas Obande\Try_Git_again>git commit -m "my first commit again"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Barnabas Obande\Try_Git_again>git commit -m "my first commit again"
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   first_text.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Barnabas Obande\Try_Git_again>git add .
+
+C:\Users\Barnabas Obande\Try_Git_again>git commit -m "my first commit again"
+[master b495d8b] my first commit again
+ 1 file changed, 1 insertion(+)
+
+C:\Users\Barnabas Obande\Try_Git_again>git config --global user.email barnabasobande1993@gmail.com
+
+C:\Users\Barnabas Obande\Try_Git_again>git config --global user.name barnabasobande
+
+C:\Users\Barnabas Obande\Try_Git_again>git commit -m "my first commit again"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Barnabas Obande\Try_Git_again>git remote add origin git@github.com:barnabasobande/Python_assignment.git
+
+C:\Users\Barnabas Obande\Try_Git_again>git push origin master
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+C:\Users\Barnabas Obande\Try_Git_again>git push git@github.com:barnabasobande/Python_assignment.git
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+C:\Users\Barnabas Obande\Try_Git_again>git push https://github.com/barnabasobande/Python_assignment.git
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 883 bytes | 294.00 KiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/barnabasobande/Python_assignment.git
+ * [new branch]      master -> master
+
+C:\Users\Barnabas Obande\Try_Git_again>
